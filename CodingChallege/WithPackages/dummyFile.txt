@@ -1,0 +1,33 @@
+[2018-09-28T15:24:37-07:00]    these should be float value    4.9962016341546933E-01
+[2018-09-28T15:24:37-07:00]    random boolean datasource    false
+[2018-09-28T15:24:37-07:00]    random boolean datasource    true
+[2018-09-28T15:24:37-07:00]    these should be float value    2.6562791905157174E-01
+[2018-09-28T15:24:38-07:00]    these should be float value    5.863963806221058E-01
+[2018-09-28T15:24:38-07:00]    these should be float value    4.240560792137314E-01
+[2018-09-28T15:24:38-07:00]    random boolean datasource    true
+[2018-09-28T15:24:38-07:00]    these should be float value    9.383745861548426E-01
+[2018-09-28T15:24:38-07:00]    random boolean datasource    true
+[2018-09-28T15:24:38-07:00]    random boolean datasource    false
+[2018-09-28T15:24:38-07:00]    these should be float value    3.123065657786341E-03
+[2018-09-28T15:24:38-07:00]    these should be float value    4.126746607414943E-01
+[2018-09-28T15:24:38-07:00]    random boolean datasource    true
+[2018-09-28T15:24:38-07:00]    these should be float value    9.618027434671447E-01
+[2018-09-28T15:24:38-07:00]    these should be float value    9.344915786145854E-01
+[2018-09-28T15:24:39-07:00]    these should be float value    1.7724130222731294E-01
+[2018-09-28T15:24:39-07:00]    random boolean datasource    true
+[2018-09-28T15:24:39-07:00]    these should be float value    6.080241060373668E-01
+[2018-09-28T15:24:39-07:00]    random boolean datasource    false
+[2018-09-28T15:25:24-07:00]    random boolean datasource    true
+[2018-09-28T15:25:24-07:00]    these should be float value    2.1085438239468776E-01
+[2018-09-28T15:25:24-07:00]    random boolean datasource    false
+[2018-09-28T15:25:24-07:00]    these should be float value    4.6435264387665337E-01
+[2018-09-28T15:25:24-07:00]    these should be float value    8.684082051142609E-01
+[2018-09-28T15:25:25-07:00]    random boolean datasource    true
+[2018-09-28T15:25:25-07:00]    these should be float value    2.044117956009608E-01
+[2018-09-28T15:25:25-07:00]    random boolean datasource    true
+[2018-09-28T15:25:25-07:00]    random boolean datasource    true
+[2018-09-28T15:25:25-07:00]    these should be float value    2.424893475391129E-01
+[2018-09-28T15:25:26-07:00]    random boolean datasource    false
+[2018-09-28T15:25:26-07:00]    random boolean datasource    false
+[2018-09-28T15:25:26-07:00]    these should be float value    6.795037035579178E-02
+[2018-09-28T15:25:26-07:00]    random boolean datasource    false
